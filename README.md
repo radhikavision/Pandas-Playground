@@ -14,26 +14,25 @@ Our mission is to make data analysis fun and accessible, and Pandas is our trust
 
 2.Data structures:
   - Series
+    - Series Basics:
+
+      - Creating Series
+    
+
+      - Series indexing and data types
+    
+
+      - Basic operations on Series
+  
   - DataFrame     
-
-     Series Basics:
-
-   - Creating Series
+      - DataFrame Basics:
+      -  Creating DataFrames
     
-
-   - Series indexing and data types
+      - DataFrame attributes (shape, size, columns)
     
-
-   - Basic operations on Series
-
-   DataFrame Basics:
-   -  Creating DataFrames
+      - Accessing DataFrame elements
     
-   - DataFrame attributes (shape, size, columns)
-    
-   - Accessing DataFrame elements
-    
-   -  DataFrame operations
+      -  DataFrame operations
 
 3. Data Loading and Saving:             
    - Loading data from different sources
