@@ -8,7 +8,6 @@ Our mission is to make data analysis fun and accessible, and Pandas is our trust
 
 1.fundamentals of Pandas:
   - Introduction to Pandas
-  - Install Python
   - Install Pandas using pip
   - Set up a development environment
 
