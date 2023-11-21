@@ -7,9 +7,8 @@ Our mission is to make data analysis fun and accessible, and Pandas is our trust
 
 
 1.fundamentals of Pandas:
-  - Introduction to Pandas
-  - Install Pandas using pip
-  - Set up a development environment
+  - Introduction to Pandas.
+  - Install Pandas  and import pandas and setting up a development environment.
 
 2.Data structures:
   - Series
