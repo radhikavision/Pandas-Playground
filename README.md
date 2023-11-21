@@ -1,3 +1,5 @@
+Pandas Playground! 🐼🎉
+
 Welcome to the Pandas Playground! 🐼🎉
 This platform is your gateway to the world of Data Science and Data Manipulation using Pandas in Python. Whether you're a seasoned data pro or just starting your journey, you've come to the right place to learn, collaborate, and grow your skills.
 Our mission is to make data analysis fun and accessible, and Pandas is our trusty sidekick on this journey.
