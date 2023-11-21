@@ -5,7 +5,6 @@ Our mission is to make data analysis fun and accessible, and Pandas is our trust
 
 📋 Here's what you can expect in the Pandas Playground:
 
-
 1.fundamentals of Pandas:
   - Introduction to Pandas.
   - Install Pandas  and import pandas and setting up a development environment.
